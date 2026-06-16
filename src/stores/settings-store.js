@@ -12,7 +12,7 @@ function applyTheme(theme) {
 
 export const useSettingsStore = defineStore('settings', {
   state: () => ({
-    theme: 'panini',
+    theme: 'cruzeiro',
   }),
 
   actions: {
@@ -30,7 +30,7 @@ export const useSettingsStore = defineStore('settings', {
     },
 
     toggleTheme() {
-      this.setTheme(this.theme === 'panini' ? 'terrace' : 'panini')
+      this.setTheme(this.theme === 'cruzeiro' ? 'terrace' : 'cruzeiro')
     },
   },
 })

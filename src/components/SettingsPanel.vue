@@ -13,7 +13,7 @@
     <div v-if="open" class="settings-panel" role="menu">
       <div class="settings-title">
         Ajustes
-        <small>{{ settings.theme === 'panini' ? 'ficha técnica' : 'painel de controle' }}</small>
+        <small>{{ settings.theme === 'cruzeiro' ? 'ficha técnica' : 'painel de controle' }}</small>
       </div>
 
       <div class="settings-row">
@@ -22,26 +22,18 @@
           <button
             type="button"
             class="chip"
-            :class="{ 'is-active': settings.theme === 'panini' }"
-            @click="settings.setTheme('panini')"
-          >
-            Claro
-          </button>
-          <button
-            type="button"
-            class="chip"
-            :class="{ 'is-active': settings.theme === 'terrace' }"
-            @click="settings.setTheme('terrace')"
-          >
-            Escuro
-          </button>
-          <button
-            type="button"
-            class="chip"
             :class="{ 'is-active': settings.theme === 'cruzeiro' }"
             @click="settings.setTheme('cruzeiro')"
           >
             Cruzeiro
+          </button>
+          <button
+            type="button"
+            class="chip"
+            :class="{ 'is-active': settings.theme === 'panini' }"
+            @click="settings.setTheme('panini')"
+          >
+            Claro
           </button>
         </div>
         <span class="settings-hint">alterna entre o álbum de figurinhas e o modo arquibancada</span>

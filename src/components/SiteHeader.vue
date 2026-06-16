@@ -1,17 +1,17 @@
 <template>
   <header :class="variant === 'home' ? 'site-header site-header--home' : 'draft-header'">
     <div class="site-header-left">
-      <router-link
-        v-if="variant !== 'home'"
-        class="home-link logo"
-        to="/"
-        aria-label="Voltar para a home"
-      >
+      <router-link class="home-link logo" to="/" aria-label="Voltar para a home">
         <span class="lk-horz">
+          <img
+            src="../../public/crests/cruzeiro.png"
+            alt="Cruzeiro"
+            style="width: 50px; height: 50px; object-fit: contain"
+          />
           <ScoreMark />
           <span class="lk-horz-words">
-            <span class="lk-horz-name">SEIS<br />A UM</span>
-            <span class="lk-horz-sub">monte · simule · 6 a 1</span>
+            <span class="lk-horz-name">SETE<br />A ZERO</span>
+            <span class="lk-horz-sub">monte · simule · 7 a 0</span>
           </span>
         </span>
       </router-link>

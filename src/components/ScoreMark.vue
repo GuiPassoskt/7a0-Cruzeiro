@@ -1,8 +1,8 @@
 <template>
   <span class="mark70 num" aria-label="7 a 0">
-    <span class="mark-7">6</span>
+    <span class="mark-7">7</span>
     <span class="sep sep-dash">–</span>
-    <span class="mark-0">1</span>
+    <span class="mark-0">0</span>
   </span>
 </template>
 
