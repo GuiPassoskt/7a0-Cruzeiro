@@ -9,7 +9,6 @@ const modules = import.meta.glob('./data/squads/*.json', { eager: true })
 /** Display metadata per "seleção" code. */
 export const TEAMS = {
   CRU: { code: 'CRU', name: 'Cruzeiro', crest: 'crests/cruzeiro.png' },
-  NKT: { code: 'NKT', name: 'Captain Tsubasa', crest: 'crests/captain-tsubasa.png' },
 }
 
 function teamMeta(code) {
