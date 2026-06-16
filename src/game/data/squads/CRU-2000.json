@@ -1,0 +1,267 @@
+{
+  "sel": "CRU",
+  "copa": 2000,
+  "squad": [
+    {
+      "playerId": "andre",
+      "name": "André",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["GOL"],
+      "number": 1,
+      "f": 101,
+      "legend": false
+    },
+    {
+      "playerId": "maicon",
+      "name": "Maicon",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["LD"],
+      "number": 2,
+      "f": 102,
+      "legend": false
+    },
+    {
+      "playerId": "cristiano-alves",
+      "name": "Cristiano Alves",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["ZAG"],
+      "number": 3,
+      "f": 103,
+      "legend": false
+    },
+    {
+      "playerId": "marcelo-djian",
+      "name": "Marcelo Djian",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["ZAG"],
+      "number": 4,
+      "f": 104,
+      "legend": false
+    },
+    {
+      "playerId": "sorin",
+      "name": "Sorin",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["LE", "ME"],
+      "number": 6,
+      "f": 105,
+      "legend": true
+    },
+    {
+      "playerId": "ricardinho-volante",
+      "name": "Ricardinho",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["VOL"],
+      "number": 5,
+      "f": 106,
+      "legend": false
+    },
+    {
+      "playerId": "henrique",
+      "name": "Henrique",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["VOL", "MC"],
+      "number": 8,
+      "f": 107,
+      "legend": false
+    },
+    {
+      "playerId": "geovanni",
+      "name": "Geovanni",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["MEI", "PD"],
+      "number": 10,
+      "f": 108,
+      "legend": true
+    },
+    {
+      "playerId": "muller",
+      "name": "Müller",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["MEI", "CA"],
+      "number": 11,
+      "f": 109,
+      "legend": true
+    },
+    {
+      "playerId": "fabio-junior",
+      "name": "Fábio Júnior",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["CA"],
+      "number": 9,
+      "f": 110,
+      "legend": true
+    },
+    {
+      "playerId": "osmar",
+      "name": "Osmar",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["CA"],
+      "number": 7,
+      "f": 111,
+      "legend": false
+    },
+
+    {
+      "playerId": "jefferson",
+      "name": "Jefferson",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["GOL"],
+      "number": 12,
+      "f": 112,
+      "legend": false
+    },
+    {
+      "playerId": "gomes",
+      "name": "Gomes",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["GOL"],
+      "number": 22,
+      "f": 113,
+      "legend": true
+    },
+    {
+      "playerId": "claudio-caçapa",
+      "name": "Cláudio Caçapa",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["ZAG"],
+      "number": 13,
+      "f": 114,
+      "legend": true
+    },
+    {
+      "playerId": "luisao",
+      "name": "Luisão",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["ZAG"],
+      "number": 14,
+      "f": 115,
+      "legend": true
+    },
+    {
+      "playerId": "cris",
+      "name": "Cris",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["ZAG"],
+      "number": 15,
+      "f": 116,
+      "legend": true
+    },
+    {
+      "playerId": "leandro",
+      "name": "Leandro",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["LE"],
+      "number": 16,
+      "f": 117,
+      "legend": false
+    },
+    {
+      "playerId": "paulo-isidoro",
+      "name": "Paulo Isidoro",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["VOL", "MC"],
+      "number": 17,
+      "f": 118,
+      "legend": false
+    },
+    {
+      "playerId": "djair",
+      "name": "Djair",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["MEI"],
+      "number": 18,
+      "f": 119,
+      "legend": false
+    },
+    {
+      "playerId": "rodriguinho",
+      "name": "Rodriguinho",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["MEI", "PD"],
+      "number": 19,
+      "f": 120,
+      "legend": false
+    },
+    {
+      "playerId": "jackson",
+      "name": "Jackson",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["MEI"],
+      "number": 20,
+      "f": 121,
+      "legend": false
+    },
+    {
+      "playerId": "edmondo",
+      "name": "Edmundo",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["CA"],
+      "number": 21,
+      "f": 122,
+      "legend": true
+    },
+    {
+      "playerId": "marcelo-ramos",
+      "name": "Marcelo Ramos",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["CA"],
+      "number": 23,
+      "f": 123,
+      "legend": true
+    },
+    {
+      "playerId": "aristizabal",
+      "name": "Aristizábal",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["CA"],
+      "number": 24,
+      "f": 124,
+      "legend": true
+    },
+    {
+      "playerId": "alex",
+      "name": "Alex",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["MEI"],
+      "number": 25,
+      "f": 125,
+      "legend": true
+    },
+    {
+      "playerId": "wendel",
+      "name": "Wendel",
+      "sel": "CRU",
+      "copa": 2000,
+      "positions": ["MC"],
+      "number": 26,
+      "f": 126,
+      "legend": false
+    }
+  ]
+}

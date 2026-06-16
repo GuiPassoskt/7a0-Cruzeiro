@@ -1,0 +1,277 @@
+{
+  "sel": "CRU",
+  "copa": 2015,
+  "squad": [
+    {
+      "playerId": "fabio",
+      "name": "Fábio",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["GOL"],
+      "number": 1,
+      "f": 101,
+      "legend": true
+    },
+    {
+      "playerId": "mayke",
+      "name": "Mayke",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["LD"],
+      "number": 22,
+      "f": 102,
+      "legend": false
+    },
+    {
+      "playerId": "leo",
+      "name": "Léo",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["ZAG"],
+      "number": 3,
+      "f": 103,
+      "legend": false
+    },
+    {
+      "playerId": "bruno-rodrigo",
+      "name": "Bruno Rodrigo",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["ZAG"],
+      "number": 4,
+      "f": 104,
+      "legend": false
+    },
+    {
+      "playerId": "mena",
+      "name": "Mena",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["LE"],
+      "number": 21,
+      "f": 105,
+      "legend": false
+    },
+    {
+      "playerId": "henrique",
+      "name": "Henrique",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["VOL"],
+      "number": 8,
+      "f": 106,
+      "legend": true
+    },
+    {
+      "playerId": "ariel-cabral",
+      "name": "Ariel Cabral",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["VOL", "MC"],
+      "number": 40,
+      "f": 107,
+      "legend": false
+    },
+    {
+      "playerId": "arrascaeta",
+      "name": "De Arrascaeta",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["MEI"],
+      "number": 10,
+      "f": 108,
+      "legend": true
+    },
+    {
+      "playerId": "marquinhos",
+      "name": "Marquinhos",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["PD", "PE"],
+      "number": 11,
+      "f": 109,
+      "legend": false
+    },
+    {
+      "playerId": "willian-bigode",
+      "name": "Willian",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["CA", "PE", "PD"],
+      "number": 25,
+      "f": 110,
+      "legend": true
+    },
+    {
+      "playerId": "alisson",
+      "name": "Alisson",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["PE", "PD"],
+      "number": 30,
+      "f": 111,
+      "legend": false
+    },
+
+    {
+      "playerId": "rafael",
+      "name": "Rafael",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["GOL"],
+      "number": 12,
+      "f": 112,
+      "legend": false
+    },
+    {
+      "playerId": "elisson",
+      "name": "Elisson",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["GOL"],
+      "number": 24,
+      "f": 113,
+      "legend": false
+    },
+    {
+      "playerId": "ceara",
+      "name": "Ceará",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["LD"],
+      "number": 2,
+      "f": 114,
+      "legend": true
+    },
+    {
+      "playerId": "fabiano",
+      "name": "Fabiano",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["LD"],
+      "number": 27,
+      "f": 115,
+      "legend": false
+    },
+    {
+      "playerId": "manoel",
+      "name": "Manoel",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["ZAG"],
+      "number": 33,
+      "f": 116,
+      "legend": false
+    },
+    {
+      "playerId": "paulo-andre",
+      "name": "Paulo André",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["ZAG"],
+      "number": 14,
+      "f": 117,
+      "legend": false
+    },
+    {
+      "playerId": "fabricio",
+      "name": "Fabrício",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["LE"],
+      "number": 6,
+      "f": 118,
+      "legend": false
+    },
+    {
+      "playerId": "willians",
+      "name": "Willians",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["VOL"],
+      "number": 5,
+      "f": 119,
+      "legend": false
+    },
+    {
+      "playerId": "charles",
+      "name": "Charles",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["VOL", "MC"],
+      "number": 15,
+      "f": 120,
+      "legend": false
+    },
+    {
+      "playerId": "julio-baptista",
+      "name": "Júlio Baptista",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["MEI", "CA"],
+      "number": 10,
+      "f": 121,
+      "legend": true
+    },
+    {
+      "playerId": "gabriel-xavier",
+      "name": "Gabriel Xavier",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["MEI", "PD"],
+      "number": 18,
+      "f": 122,
+      "legend": false
+    },
+    {
+      "playerId": "marcos-vinicius",
+      "name": "Marcos Vinícius",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["MEI"],
+      "number": 34,
+      "f": 123,
+      "legend": false
+    },
+    {
+      "playerId": "leandro-damiao",
+      "name": "Leandro Damião",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["CA"],
+      "number": 9,
+      "f": 124,
+      "legend": false
+    },
+    {
+      "playerId": "vinicius-araujo",
+      "name": "Vinícius Araújo",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["CA"],
+      "number": 39,
+      "f": 125,
+      "legend": false
+    },
+    {
+      "playerId": "riascos",
+      "name": "Riascos",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["CA"],
+      "number": 91,
+      "f": 126,
+      "legend": false
+    },
+    {
+      "playerId": "marinho",
+      "name": "Marinho",
+      "sel": "CRU",
+      "copa": 2015,
+      "positions": ["PD", "PE"],
+      "number": 28,
+      "f": 127,
+      "legend": false
+    }
+  ]
+}

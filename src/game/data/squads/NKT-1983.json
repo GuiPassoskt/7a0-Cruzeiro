@@ -1,0 +1,187 @@
+{
+  "sel": "NKT",
+  "copa": 1983,
+  "squad": [
+    {
+      "playerId": "genzo-wakabayashi",
+      "name": "Benji Price",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["GOL"],
+      "number": 1,
+      "f": 101,
+      "legend": true
+    },
+    {
+      "playerId": "takeshi-kishida",
+      "name": "Kishida",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["LD"],
+      "number": 2,
+      "f": 102,
+      "legend": false
+    },
+    {
+      "playerId": "koji-nishio",
+      "name": "Nishio",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["ZAG"],
+      "number": 3,
+      "f": 103,
+      "legend": false
+    },
+    {
+      "playerId": "masao-nakayama",
+      "name": "Nakayama",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["ZAG"],
+      "number": 4,
+      "f": 104,
+      "legend": false
+    },
+    {
+      "playerId": "hanji-urabe",
+      "name": "Urabe",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["VOL"],
+      "number": 5,
+      "f": 105,
+      "legend": false
+    },
+    {
+      "playerId": "shingo-takasugi",
+      "name": "Takasugi",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["ZAG"],
+      "number": 6,
+      "f": 106,
+      "legend": false
+    },
+    {
+      "playerId": "hajime-taki",
+      "name": "Taki",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["PD"],
+      "number": 7,
+      "f": 107,
+      "legend": false
+    },
+    {
+      "playerId": "mamoru-izawa",
+      "name": "Izawa",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["MC"],
+      "number": 8,
+      "f": 108,
+      "legend": false
+    },
+    {
+      "playerId": "teppei-kisugi",
+      "name": "Kisugi",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["CA"],
+      "number": 9,
+      "f": 109,
+      "legend": false
+    },
+    {
+      "playerId": "tsubasa-ozora",
+      "name": "Oliver Atom",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["MEI", "CA"],
+      "number": 10,
+      "f": 110,
+      "legend": true
+    },
+    {
+      "playerId": "taro-misaki",
+      "name": "Tom Misaki",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["PE", "MEI"],
+      "number": 11,
+      "f": 111,
+      "legend": true
+    },
+
+    {
+      "playerId": "yuzo-morisaki",
+      "name": "Morisaki",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["GOL"],
+      "number": 12,
+      "f": 112,
+      "legend": false
+    },
+    {
+      "playerId": "ryo-ishizaki",
+      "name": "Bruce Harper",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["ZAG"],
+      "number": 14,
+      "f": 113,
+      "legend": true
+    },
+    {
+      "playerId": "manabu-okawa",
+      "name": "Okawa",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["ZAG"],
+      "number": 15,
+      "f": 114,
+      "legend": false
+    },
+    {
+      "playerId": "kenichi-iwami",
+      "name": "Iwami",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["MC"],
+      "number": 16,
+      "f": 115,
+      "legend": false
+    },
+    {
+      "playerId": "shota-minowa",
+      "name": "Minowa",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["MC"],
+      "number": 17,
+      "f": 116,
+      "legend": false
+    },
+    {
+      "playerId": "yutaka-murashige",
+      "name": "Murashige",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["MC"],
+      "number": 18,
+      "f": 117,
+      "legend": false
+    },
+    {
+      "playerId": "susumu-sakurai",
+      "name": "Sakurai",
+      "sel": "NKT",
+      "copa": 1983,
+      "positions": ["VOL"],
+      "number": 19,
+      "f": 118,
+      "legend": false
+    }
+  ]
+}

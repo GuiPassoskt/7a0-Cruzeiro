@@ -1,0 +1,267 @@
+{
+  "sel": "CRU",
+  "copa": 1993,
+  "squad": [
+    {
+      "playerId": "paulo-cesar",
+      "name": "Paulo César",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["GOL"],
+      "number": 1,
+      "f": 101,
+      "legend": false
+    },
+    {
+      "playerId": "luis-fernando",
+      "name": "Luís Fernando",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["LD"],
+      "number": 2,
+      "f": 102,
+      "legend": false
+    },
+    {
+      "playerId": "cleyton",
+      "name": "Cleyton",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["ZAG"],
+      "number": 3,
+      "f": 103,
+      "legend": false
+    },
+    {
+      "playerId": "gottardo",
+      "name": "Gottardo",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["ZAG"],
+      "number": 4,
+      "f": 104,
+      "legend": true
+    },
+    {
+      "playerId": "ronaldo-luiz",
+      "name": "Ronaldo Luiz",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["LE"],
+      "number": 6,
+      "f": 105,
+      "legend": false
+    },
+    {
+      "playerId": "ademir",
+      "name": "Ademir",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["VOL"],
+      "number": 5,
+      "f": 106,
+      "legend": false
+    },
+    {
+      "playerId": "nonato",
+      "name": "Nonato",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["VOL", "MC"],
+      "number": 8,
+      "f": 107,
+      "legend": true
+    },
+    {
+      "playerId": "roberto-gaúcho",
+      "name": "Roberto Gaúcho",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["MEI"],
+      "number": 10,
+      "f": 108,
+      "legend": true
+    },
+    {
+      "playerId": "ronaldo",
+      "name": "Ronaldo",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["CA"],
+      "number": 9,
+      "f": 109,
+      "legend": true
+    },
+    {
+      "playerId": "renato-oliveira",
+      "name": "Renato Oliveira",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["PD"],
+      "number": 7,
+      "f": 110,
+      "legend": false
+    },
+    {
+      "playerId": "marcelo-ramos",
+      "name": "Marcelo Ramos",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["CA"],
+      "number": 11,
+      "f": 111,
+      "legend": true
+    },
+
+    {
+      "playerId": "dida",
+      "name": "Dida",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["GOL"],
+      "number": 12,
+      "f": 112,
+      "legend": true
+    },
+    {
+      "playerId": "vitor",
+      "name": "Vítor",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["LD"],
+      "number": 13,
+      "f": 113,
+      "legend": true
+    },
+    {
+      "playerId": "gelson",
+      "name": "Gélson",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["ZAG"],
+      "number": 14,
+      "f": 114,
+      "legend": true
+    },
+    {
+      "playerId": "wilson-gottardo-jr",
+      "name": "Wilson",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["ZAG"],
+      "number": 15,
+      "f": 115,
+      "legend": false
+    },
+    {
+      "playerId": "cadu",
+      "name": "Cadu",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["LE"],
+      "number": 16,
+      "f": 116,
+      "legend": false
+    },
+    {
+      "playerId": "paulo-roberto",
+      "name": "Paulo Roberto",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["VOL"],
+      "number": 17,
+      "f": 117,
+      "legend": false
+    },
+    {
+      "playerId": "palhinha",
+      "name": "Palhinha",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["MEI"],
+      "number": 18,
+      "f": 118,
+      "legend": true
+    },
+    {
+      "playerId": "cleisson",
+      "name": "Cleisson",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["MEI", "PD"],
+      "number": 19,
+      "f": 119,
+      "legend": false
+    },
+    {
+      "playerId": "elivelton",
+      "name": "Elivélton",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["MEI", "PE"],
+      "number": 20,
+      "f": 120,
+      "legend": true
+    },
+    {
+      "playerId": "paulinho-mclaren",
+      "name": "Paulinho McLaren",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["CA"],
+      "number": 21,
+      "f": 121,
+      "legend": true
+    },
+    {
+      "playerId": "roberto-carlos",
+      "name": "Roberto Carlos",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["LE"],
+      "number": 22,
+      "f": 122,
+      "legend": true
+    },
+    {
+      "playerId": "alex-alves",
+      "name": "Alex Alves",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["CA"],
+      "number": 23,
+      "f": 123,
+      "legend": false
+    },
+    {
+      "playerId": "careca",
+      "name": "Careca",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["CA"],
+      "number": 24,
+      "f": 124,
+      "legend": false
+    },
+    {
+      "playerId": "marcelo-djian",
+      "name": "Marcelo Djian",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["ZAG"],
+      "number": 25,
+      "f": 125,
+      "legend": false
+    },
+    {
+      "playerId": "ronaldo-guiaro",
+      "name": "Ronaldo Guiaro",
+      "sel": "CRU",
+      "copa": 1993,
+      "positions": ["ZAG"],
+      "number": 26,
+      "f": 126,
+      "legend": false
+    }
+  ]
+}

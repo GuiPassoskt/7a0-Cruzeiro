@@ -1,0 +1,197 @@
+{
+  "sel": "CRU",
+  "copa": 1966,
+  "squad": [
+    {
+      "playerId": "raul-plassmann",
+      "name": "Raul",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["GOL"],
+      "number": 1,
+      "f": 101,
+      "legend": true
+    },
+    {
+      "playerId": "pedro-paulo",
+      "name": "Pedro Paulo",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["LD"],
+      "number": 2,
+      "f": 102,
+      "legend": false
+    },
+    {
+      "playerId": "william",
+      "name": "William",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["ZAG"],
+      "number": 3,
+      "f": 103,
+      "legend": false
+    },
+    {
+      "playerId": "procopio",
+      "name": "Procópio",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["ZAG"],
+      "number": 4,
+      "f": 104,
+      "legend": true
+    },
+    {
+      "playerId": "neco",
+      "name": "Neco",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["LE"],
+      "number": 6,
+      "f": 105,
+      "legend": false
+    },
+    {
+      "playerId": "piazza",
+      "name": "Piazza",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["VOL"],
+      "number": 5,
+      "f": 106,
+      "legend": true
+    },
+    {
+      "playerId": "dirceu-lopes",
+      "name": "Dirceu Lopes",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["MC", "MEI"],
+      "number": 8,
+      "f": 107,
+      "legend": true
+    },
+    {
+      "playerId": "natal",
+      "name": "Natal",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["PD"],
+      "number": 7,
+      "f": 108,
+      "legend": false
+    },
+    {
+      "playerId": "tostao",
+      "name": "Tostão",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["MEI", "CA"],
+      "number": 10,
+      "f": 109,
+      "legend": true
+    },
+    {
+      "playerId": "evaldo",
+      "name": "Evaldo",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["CA"],
+      "number": 9,
+      "f": 110,
+      "legend": false
+    },
+    {
+      "playerId": "hilton-oliveira",
+      "name": "Hilton Oliveira",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["PE"],
+      "number": 11,
+      "f": 111,
+      "legend": false
+    },
+
+    {
+      "playerId": "tonho",
+      "name": "Tonho",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["GOL"],
+      "number": 12,
+      "f": 112,
+      "legend": false
+    },
+    {
+      "playerId": "claudio",
+      "name": "Cláudio",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["ZAG"],
+      "number": 13,
+      "f": 113,
+      "legend": false
+    },
+    {
+      "playerId": "ze-carlos",
+      "name": "Zé Carlos",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["VOL", "MC"],
+      "number": 14,
+      "f": 114,
+      "legend": true
+    },
+    {
+      "playerId": "hilton-chaves",
+      "name": "Hilton Chaves",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["LE", "MC"],
+      "number": 15,
+      "f": 115,
+      "legend": false
+    },
+    {
+      "playerId": "marco-antonio",
+      "name": "Marco Antônio",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["CA"],
+      "number": 16,
+      "f": 116,
+      "legend": false
+    },
+    {
+      "playerId": "dalmar",
+      "name": "Dalmar",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["PE"],
+      "number": 17,
+      "f": 117,
+      "legend": false
+    },
+    {
+      "playerId": "ilton-chaves",
+      "name": "Ílton Chaves",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["MC"],
+      "number": 18,
+      "f": 118,
+      "legend": false
+    },
+    {
+      "playerId": "wilson-almeida",
+      "name": "Wilson Almeida",
+      "sel": "CRU",
+      "copa": 1966,
+      "positions": ["PD"],
+      "number": 19,
+      "f": 119,
+      "legend": false
+    }
+  ]
+}

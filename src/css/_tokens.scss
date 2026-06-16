@@ -1,0 +1,79 @@
+/* Design tokens — ported verbatim from the original 7a0 build.
+   Two themes: `panini` (paper / sticker album) and `terrace` (dark phosphor). */
+
+:root {
+  /* Google Fonts mapped to the variable names the tokens expect. */
+  --font-anton: 'Anton', sans-serif;
+  --font-hanken: 'Hanken Grotesk', sans-serif;
+  --font-archivo: 'Archivo', sans-serif;
+  --font-oswald: 'Oswald', sans-serif;
+  --font-space-grotesk: 'Space Grotesk', sans-serif;
+  --font-share-tech-mono: 'Share Tech Mono', monospace;
+}
+
+:root,
+.theme-panini {
+  --surface: #f3ecd8;
+  --surface-2: #ffffff;
+  --ink: #1b1a17;
+  --muted: #6b6452;
+  --accent: #e8462b;
+  --accent-2: #c8a24b;
+  --pitch: #2f7d4f;
+  --line: #d8cfb4;
+  --display: var(--font-anton), sans-serif;
+  --display-weight: 400;
+  --body: var(--font-hanken), sans-serif;
+  --numeral: var(--font-archivo), sans-serif;
+  --numeral-weight: 900;
+  --hard-shadow: 3px 3px 0 var(--line);
+  --hard-shadow-ink: 3px 3px 0 #1b1a17;
+  --card-border: 2px solid #ffffff;
+  --rule: var(--line);
+  --win: #2f7d4f;
+  --phosphor: transparent;
+}
+
+.theme-terrace {
+  --surface: #0b1a12;
+  --surface-2: #0d0d0d;
+  --ink: #ede7d6;
+  --muted: #5f8a6f;
+  --accent: #e2342b;
+  --accent-2: #f5b11e;
+  --pitch: #0e2417;
+  --line: #1d4a2e;
+  --display: var(--font-oswald), sans-serif;
+  --display-weight: 700;
+  --body: var(--font-space-grotesk), sans-serif;
+  --numeral: var(--font-share-tech-mono), monospace;
+  --numeral-weight: 400;
+  --hard-shadow: 3px 3px 0 rgba(0, 0, 0, 0.5);
+  --hard-shadow-ink: 3px 3px 0 #000;
+  --card-border: 1px solid var(--line);
+  --rule: var(--line);
+  --win: #39ff7a;
+  --phosphor: #39ff7a;
+}
+
+.theme-cruzeiro {
+  --surface: #f3ecd8; /* fundo claro */
+  --surface-2: #ffffff; /* cartões */
+  --ink: #003087; /* azul Cruzeiro */
+  --muted: #6b7ca5; /* azul dessaturado */
+  --accent: #003da5; /* azul principal */
+  --accent-2: #5c7dda; /* azul secundário */
+  --pitch: #003087; /* substitui o verde */
+  --line: #c8d3f0; /* bordas suaves */
+  --display: var(--font-anton), sans-serif;
+  --display-weight: 400;
+  --body: var(--font-hanken), sans-serif;
+  --numeral: var(--font-archivo), sans-serif;
+  --numeral-weight: 900;
+  --hard-shadow: 3px 3px 0 var(--line);
+  --hard-shadow-ink: 3px 3px 0 #001a4d;
+  --card-border: 2px solid #ffffff;
+  --rule: var(--line);
+  --win: #2f7d4f;
+  --phosphor: transparent;
+}

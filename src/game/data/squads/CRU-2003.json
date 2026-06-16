@@ -1,0 +1,277 @@
+{
+  "sel": "CRU",
+  "copa": 2003,
+  "squad": [
+    {
+      "playerId": "gomes",
+      "name": "Gomes",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["GOL"],
+      "number": 1,
+      "f": 101,
+      "legend": false
+    },
+    {
+      "playerId": "maurinho",
+      "name": "Maurinho",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["LD"],
+      "number": 2,
+      "f": 102,
+      "legend": false
+    },
+    {
+      "playerId": "cris",
+      "name": "Cris",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["ZAG"],
+      "number": 3,
+      "f": 103,
+      "legend": false
+    },
+    {
+      "playerId": "edu-dracena",
+      "name": "Edu Dracena",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["ZAG"],
+      "number": 4,
+      "f": 104,
+      "legend": false
+    },
+    {
+      "playerId": "leandro",
+      "name": "Leandro",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["LE"],
+      "number": 6,
+      "f": 105,
+      "legend": false
+    },
+    {
+      "playerId": "maldonado",
+      "name": "Maldonado",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["VOL"],
+      "number": 8,
+      "f": 106,
+      "legend": false
+    },
+    {
+      "playerId": "augusto-recife",
+      "name": "Augusto Recife",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["VOL"],
+      "number": 5,
+      "f": 107,
+      "legend": false
+    },
+    {
+      "playerId": "wendel",
+      "name": "Wendel",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["MC", "MEI"],
+      "number": 16,
+      "f": 108,
+      "legend": false
+    },
+    {
+      "playerId": "alex",
+      "name": "Alex",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["MEI"],
+      "number": 10,
+      "f": 109,
+      "legend": true
+    },
+    {
+      "playerId": "aristizabal",
+      "name": "Aristizábal",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["CA"],
+      "number": 11,
+      "f": 110,
+      "legend": true
+    },
+    {
+      "playerId": "marcio-nobre",
+      "name": "Márcio Nobre",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["CA"],
+      "number": 19,
+      "f": 111,
+      "legend": false
+    },
+
+    {
+      "playerId": "artur",
+      "name": "Artur",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["GOL"],
+      "number": 12,
+      "f": 112,
+      "legend": false
+    },
+    {
+      "playerId": "maicon",
+      "name": "Maicon",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["LD", "LE"],
+      "number": 13,
+      "f": 113,
+      "legend": false
+    },
+    {
+      "playerId": "luisao",
+      "name": "Luisão",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["ZAG"],
+      "number": 14,
+      "f": 114,
+      "legend": false
+    },
+    {
+      "playerId": "gladstone",
+      "name": "Gladstone",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["ZAG"],
+      "number": 26,
+      "f": 115,
+      "legend": false
+    },
+    {
+      "playerId": "irineu",
+      "name": "Irineu",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["ZAG"],
+      "number": 22,
+      "f": 116,
+      "legend": false
+    },
+    {
+      "playerId": "felipe-melo",
+      "name": "Felipe Melo",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["VOL", "ZAG"],
+      "number": 15,
+      "f": 117,
+      "legend": false
+    },
+    {
+      "playerId": "martinez",
+      "name": "Martinez",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["VOL", "MC"],
+      "number": 7,
+      "f": 118,
+      "legend": false
+    },
+    {
+      "playerId": "itaparica",
+      "name": "Itaparica",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["VOL"],
+      "number": 30,
+      "f": 119,
+      "legend": false
+    },
+    {
+      "playerId": "jussie",
+      "name": "Jussiê",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["MEI", "PD"],
+      "number": 17,
+      "f": 120,
+      "legend": false
+    },
+    {
+      "playerId": "marcinho",
+      "name": "Marcinho",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["MEI"],
+      "number": 23,
+      "f": 121,
+      "legend": false
+    },
+    {
+      "playerId": "zinho",
+      "name": "Zinho",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["MEI", "MC"],
+      "number": 17,
+      "f": 122,
+      "legend": true
+    },
+    {
+      "playerId": "deivid",
+      "name": "Deivid",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["CA"],
+      "number": 9,
+      "f": 123,
+      "legend": false
+    },
+    {
+      "playerId": "mota",
+      "name": "Mota",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["CA"],
+      "number": 18,
+      "f": 124,
+      "legend": false
+    },
+    {
+      "playerId": "alex-dias",
+      "name": "Alex Dias",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["CA"],
+      "number": 20,
+      "f": 125,
+      "legend": false
+    },
+    {
+      "playerId": "marcelo-ramos",
+      "name": "Marcelo Ramos",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["CA"],
+      "number": 21,
+      "f": 126,
+      "legend": true
+    },
+    {
+      "playerId": "alex-alves",
+      "name": "Alex Alves",
+      "sel": "CRU",
+      "copa": 2003,
+      "positions": ["CA"],
+      "number": 36,
+      "f": 127,
+      "legend": false
+    }
+  ]
+}
