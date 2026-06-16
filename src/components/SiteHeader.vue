@@ -4,7 +4,7 @@
       <router-link class="home-link logo" to="/" aria-label="Voltar para a home">
         <span class="lk-horz">
           <img
-            src="../../public/crests/cruzeiro.png"
+            src="/crests/cruzeiro.png"
             alt="Cruzeiro"
             style="width: 50px; height: 50px; object-fit: contain"
           />
